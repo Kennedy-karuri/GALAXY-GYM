@@ -1,0 +1,86 @@
+body{
+    margin:0;
+    padding:0;
+    background-size: cover;
+    word-spacing: 5px;
+    margin-top: 80px;
+
+
+    }
+    .nav ul{
+    list-style: none;
+    background:red;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+    }
+    .nav a{
+        text-decoration: none;
+        color:white;
+        width:100px;
+        display:block;
+        text-align:center;
+        padding:15px;
+        font-size:17px;
+        font-family:Helvetica;
+    }
+    .nav li{
+        display:inline-block;
+    }
+    .home{
+        background-image:url(./images/GYM3.jpg) ;
+        background-repeat: no-repeat;
+        height: 1000px;
+        text-align: center;
+        
+    
+    }
+    .about{
+        background-image: url(./images/GYM4.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+        text-align: center;
+    }
+    .services{
+        background-image: url(./images/GYM3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: left;
+
+        height:700px;
+    }
+    .contacts{
+        background-image: url(./images/GYM4.jpg);
+        background-repeat: no-repeat;  
+        background-size: cover; 
+        text-align: left; 
+        height:700px;
+    } 
+    h1{
+        color: red;
+        font-size: bold;
+        padding: 300px;
+        font-size: xx-large;
+        
+        
+    }
+    p{
+        color: white;
+    }
+    h2{
+        text-align: center;
+        color: blueviolet;
+    }
+
+    li{
+        color: white;
+    }
+    form{
+        color:white;
+    }
+    ul{
+        color:white;
+    }
+        
+
